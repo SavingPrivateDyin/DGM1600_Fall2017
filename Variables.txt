@@ -1,0 +1,27 @@
+MY THOUGHTS ON VARIABLES
+
+VARIABLES are the very essence of any program you will create. I guess it is feasible to create a program without VARIABLES
+but that would be a terrible pain in the rear end. 
+
+I will break down variables below:
+
+1. Start with and access modifier which you can set to private or public depending on what the variable will be used for. 
+
+2. Next Delcare the type of the variable. examples: int, double, float, string, boolean.
+
+3. Name your variable. example: private int health
+
+4. Include "=" to set your variable. example: private int health =
+
+5. Use correct value type you want set to your variable. example: private int health = 100;
+
+6. Make sure to end statement with a ";"!!!!
+
+
+EXAMPLE VARIABLES
+
+private int health = 100;
+public float water = 0.50f;
+private string waterBottle = "not found!"
+public double gas = 0.75;
+public boolean gameOver = true;
