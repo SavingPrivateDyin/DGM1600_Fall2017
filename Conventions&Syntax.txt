@@ -1,0 +1,18 @@
+MY THOUGHTS ON CONVENTIONS AND SYNTAX
+
+    Even though Conventions and Syntax can be a major pain sometimes, (especially when switching between languages), 
+they are incredibly important to be able to write clear, concise code that works and is readable and understandable to 
+other coders. 
+
+First, if you don't use the correct SYNTAX your program will not run.
+
+Second, if you weren't using CONVENTIONS you could code everything on a single line. It would run, but eww...
+
+Third, to be able to use an IF statement you are required to set up the IF statement with the correct SYNTAX or it won't run. 
+
+Fourth, using CONVENTIONS to name your variables will allow another coder to understand what that variable is for.
+
+Fifth, using the proper CONVENTIONS allows you to make a variable throughout your code instead of just using a number each time, 
+  that way if you need to change that number you only need to change the value of the variable and it will replace it all 
+  throughout the code.
+
