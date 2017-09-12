@@ -1,0 +1,42 @@
+MY THOUGHTS ON ELSE CLAUSE
+
+Else clauses are the "Catch-All" for if statements. They come into affect if none of your
+previous if or else if statements work. 
+
+Examples: 
+
+public string sky = "clear";
+
+if(sky == "sunny"){
+    print("yay!");
+}
+else if(sky == "cloudy"){
+    print("uh oh!");
+}
+else{
+    print("pretty sure your sky is falling");
+}
+
+public int health = 85;
+
+if(health >= 75){
+    print("yay!");
+}
+else if(health <= 74 && health > 0){
+    print("uh oh!");
+}
+else{
+    print("pretty sure you're dead");
+}
+
+public float fuel = .50f;
+
+if(fuel == 1.00f){
+    print("full!");
+}
+else if(fuel == .50f){
+    print("half");
+}
+else{
+    print("empty");
+}
