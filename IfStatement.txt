@@ -1,0 +1,18 @@
+MY THOUGHTS ON IF  STATEMENTS
+
+If statements are extremely power tools to compare one thing or a list of things against 
+one another. It allows you to split your program based on conditional items. Like if your
+player gets hit with a bullet, you can decide how much damage the player takes depending
+on where he is hit with if statements.
+
+Examples:
+
+if(sky == "blue")
+if(sky == "gray")
+if(sky == "black")
+if(sky == "cloudy")
+if(sky == "sunny")
+if(sky == "rainy")
+if(sky == "on fire")
+if(sky == "falling")
+if(sky == "soaring")
