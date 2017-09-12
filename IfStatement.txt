@@ -16,3 +16,17 @@ if(sky == "rainy")
 if(sky == "on fire")
 if(sky == "falling")
 if(sky == "soaring")
+
+You can have multiple if statements by using else if after the first if statement.
+
+Examples:
+
+if(sky == "blue")
+else if(sky == "gray")
+else if(sky == "black")
+else if(sky == "cloudy")
+else if(sky == "sunny")
+else if(sky == "rainy")
+else if(sky == "on fire")
+else if(sky == "falling")
+else if(sky == "soaring")
