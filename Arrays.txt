@@ -1,0 +1,45 @@
+An Array is a variable that allows you to create and store multiple elements of the same type. 
+
+The Syntax for an Array is as follows:
+
+access modifier arrayType[] arrayName = new arrayType[];
+
+Examples:
+public int[] example = new int[];
+
+public string[] heros = new string[6];
+    heros[0] = "Batman";
+	heros[1] = "Superman";
+	heros[2] = "Supidaman";
+	heros[3] = "Catwoman";
+	heros[4] = "YourMom";
+	heros[5] = "CaptainUnderPants";
+
+public int[] health = new int[5];
+    health[0] = 0;
+    health[1] = 25;
+    health[2] = 50;
+    health[3] = 75;
+    health[4] = 100;
+
+private string[] names = new string[3];
+    names[0] = "Wade";
+    names[1] = "Alan";
+    names[2] = "Edwards";
+
+private double[] balance = new double[10];
+
+public int[] ammo = new int[5];
+
+public string[] healthStates = new string[3];
+    healthStates[0] = "Fine";
+    healthStates[1] = "Hurt";
+    healthStates[2] = "Dead";
+
+public string[] score = new string[2];
+    score[0] = "You Win!";
+    score[1] = "You Lose...";
+
+public int[] skillLevel = new int[100];
+
+private int[] scoreMultiplier = new int[25];
