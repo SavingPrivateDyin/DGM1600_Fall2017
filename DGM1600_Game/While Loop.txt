@@ -1,0 +1,55 @@
+While Loops
+
+While loops are a to do a repetitive task many times easily. It is used over for loops usually
+for 2 reasons. 1: because it there are a lot of reptitions needed or 2: you aren't sure how
+many repitions are needed. 
+
+Examples:
+
+public int maxHealth = 100;
+public int minHealth = 0;
+
+while ( maxHealth > 0 ){
+    print("your health is " + maxHealth);
+    health--;
+}
+
+while ( maxHealth > 0 ){
+    print("your health is " + maxHealth);
+    health -= 2;
+}
+
+while ( maxHealth > 0 ){
+    print("your health is " + maxHealth);
+    health -= 10;
+}
+
+while ( maxHealth > 0 ){
+    print("your health is " + maxHealth);
+    health -= 15;
+}
+
+while ( maxHealth > 0 ){
+    print("your health is " + maxHealth);
+    health -= 25;
+}
+
+while ( minHealth < 100){
+    print("Potion is healing for 1 point per second. Your health is: " minHealth);
+    minHealth++;
+}
+
+while ( minHealth < 100){
+    print("Potion is healing for 2 point per second. Your health is: " minHealth);
+    minHealth += 2;
+}
+
+while ( minHealth < 100){
+    print("Potion is healing for 10 point per second. Your health is: " minHealth);
+    minHealth += 10;
+}
+
+while ( minHealth < 100){
+    print("Potion is healing for 25 point per second. Your health is: " minHealth);
+    minHealth += 25;
+}
