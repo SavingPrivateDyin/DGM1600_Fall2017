@@ -1,0 +1,18 @@
+FOR LOOPS
+
+For Loops are used to run a block of code a designated number of times.
+You are able to choose the amount of times this codes runs so you have more
+control over this for loop rather than a while loop.
+
+Examples:
+
+for(int i = 0; i < 10; i++)
+for(int i = 10; i > 0; i--)
+for(int i = 0; i+i > 10; i++)
+for(int i = 0; i < 5; i++)
+for(int i = 0; i < 23; i++)
+for(int i = 23; i < 10; i--)
+for(int i = 5; i < 10; i++)
+for(int i = 10; i > 5; i--)
+for(int i = 2; i < 100; i+i)
+for(int i = 100; i > 0; i-i)
